@@ -1,0 +1,2 @@
+# Predicting-Pneumonia-Disease-Using-Chest-X-ray-images-Through-Deep-Learning-Techniques
+These  project focused on building a CNN-based deep learning model for automated pneumonia detection from chest X-ray images, highlighting data preprocessing, model optimization, and evaluation with metrics like accuracy and F1-score. It demonstrates the model's potential for improving diagnostic efficiency in healthcare
